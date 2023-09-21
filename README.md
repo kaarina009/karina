@@ -8,5 +8,5 @@ Meu nome é Karina
 
 °Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-°![image](https://github.com/kaarina009/karina/assets/145694249/4d03ec0b-9368-4c04-a210-513efafe5740)
-°
+°![image](https://github.com/kaarina009/karina/assets/145694249/59e51704-bec6-483e-8fea-ea9a945d5975) °
+
