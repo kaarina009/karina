@@ -1,4 +1,4 @@
-![image](https://github.com/kaarina009/karina/assets/145694249/fa601f69-605b-40da-843b-e17b15b10552) Boas vindas ao meu perfil 💙
+   Boas vindas ao meu perfil 💙
 
 Meu nome é Karina
 
@@ -8,3 +8,5 @@ Meu nome é Karina
 
 °Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
+°![image](https://github.com/kaarina009/karina/assets/145694249/4d03ec0b-9368-4c04-a210-513efafe5740)
+°
